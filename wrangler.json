@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "iprint-auth-worke",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c82fc657-d562-4a5d-8f65-9e68457bfb23",
+      "database_name": "openapi-template-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
